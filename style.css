@@ -1,0 +1,22 @@
+body {
+    background-color: #000000; /* Cor de fundo cinza claro */
+   
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    
+}
+img {
+border-radius: 15%;
+
+}
+hr.solid {
+    border: 0;
+    height: 3px;
+    background: #edc531 ;
+}
+h1 {
+    color: #edc531 ;
+}
+h2 {
+    color: #edc531 ;
+}
